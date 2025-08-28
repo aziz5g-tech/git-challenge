@@ -2,7 +2,6 @@
 
 # 🌟 **Sarah K. Aldawsari** 💬
 
-🎨 Avatar:  
 
 ![Coding Vibes](https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif)
 
