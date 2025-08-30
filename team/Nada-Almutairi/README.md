@@ -2,7 +2,8 @@
   <img src="https://github.com/NadaGhannam25/test/blob/main/TopPage.JPEG" alt="Top Banner" width="120%" height="250">
 </div>
 
----
+--- 
+
 <p align="left">
   <img src="Stars.gif" width="50" height="50" />
 </p>
@@ -14,13 +15,11 @@
 I am a dedicated <strong>Information Systems student</strong> with a strong passion for <strong>UI/UX design</strong>, <strong>cybersecurity</strong>, and <strong>data analysis</strong>. Skilled in creating user-centered designs, developing intuitive interfaces, and understanding the importance of securing digital environments. I constantly explore new technologies and best practices to enhance both user experience and system security while diving into the world of data analysis.
 </p>
 
----
-
 
 <img src="Contact.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 60px; font-weight: bold; vertical-align: middle;">Contact</span>
 ---
 <p align="center">
-  <strong>Let’s connect! Always excited to share ideas, team up, or talk about awesome tech stuff.</strong>
+  <strong>Let’s connect ! Always excited to share ideas, team up, or talk about awesome tech stuff.</strong>
 </p>
 
 <div align="center">
@@ -133,9 +132,23 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
   <img src="Stars.gif" width="50" height="50" />
 </p>
 
+
+
+---
+<p align="center">
+Proudly collaborating with these amazing companies and enjoying every moment of our journey together !
+</p>
+
+<p align="center">
+  <img src="3.png" width="180" height="180" />
+  <img src="4.png" width="180" height="180" />
+  <img src="5.png" width="180" height="180" />
+</p>
+
+
 ---
 
 
 <p align="center">
-  <img src="https://github.com/NadaGhannam25/test/blob/main/EndPage.png" alt="Banner Bottom" width="100%" />
+  <img src="https://github.com/NadaGhannam25/test/blob/main/pannners.png" alt="Banner Bottom" width="100%"/>
 </p>
