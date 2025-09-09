@@ -14,7 +14,17 @@
 - ⚖️ I like balancing study, hobbies, and health  
 
 ---
+## 🚀 Profile Update  
 
+- **Current Skill:** Right now I’m focusing on improving my **Git & GitHub** skills, because I want to get more confident with branches, commits, and pull requests.  
+
+- **What I Learned from the Last Challenge:** I learned how to create my own folder and write a README using Markdown. It was my first time doing it in a real project.  
+
+- **My Goal in the Tech Team:** My goal is to learn step by step, share knowledge with my teammates, and improve my programming skills while working together.  
+
+- **Recent Challenges & Solutions:** Recently I struggled with some Git commands and didn’t understand them at first. I solved it by asking questions, trying the commands myself, and reading examples until it became clearer.  
+
+---
 ## 💡 Motivational Quote
 > "Dream big, work hard, stay focused, and surround yourself with good people."
 
