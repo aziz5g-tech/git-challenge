@@ -95,6 +95,7 @@
 ![challenge#1](https://github.com/user-attachments/assets/bc75e308-6e6b-41e9-a30d-f66359b9ef3c)  
 ![challenge#2](https://github.com/user-attachments/assets/c68dc618-5bab-4f7f-9089-ee86b588a26c)  
 ![Winners of Challenge #3](https://github.com/user-attachments/assets/3860a5e1-6097-43fd-bd7d-f3a121e2e07d)  
+<img width="3436" height="5936" alt="Winners of Github Challenge #1" src="https://github.com/user-attachments/assets/2cd1d3b5-585b-4ef8-bd0b-3c264beb3387" />
 
 ---
 
