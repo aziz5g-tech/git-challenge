@@ -14,6 +14,10 @@
 ## 💡 اقتباس تحفيزي
 > "نبني كما كانت أوائلُنا، ونفعل فوق ما فعلو"
 
+## 🏅 أوسمة منصة سطر
+[![Satr Achievements](https://img.shields.io/badge/سطر-أوسمتي-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAyTDMuMDkgOC4yNkwyIDEzVjIySDIyVjEzTDIwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==)](https://profile.satr.codes/aziz_5g/public/achievements)
+
+
 ## 🔗 روابط التواصل
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aziz5g-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alrashedi-bb0782189/)
